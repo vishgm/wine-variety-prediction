@@ -28,7 +28,7 @@ For example:- Cabernet Sauvignon, Pinot Noir...etc.
 ## Libraries:
 
 Libraries used :  ```
-                  numpy,sklearn,pandas,matplotlib,seaborn
+                  numpy,sklearn,pandas,matplotlib,seaborn,ppscore
                   ```
 
 
