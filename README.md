@@ -1,88 +1,70 @@
-# Project Title
+# Wine Variety Prediction using Machine Learning
 
-One Paragraph of project description goes here
 
-## Getting Started
+## About this Repository:
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This was a Data Science assignment. The dataset used for this model is private, but similiar datasets can be found on Kaggle. 
 
-### Prerequisites
+## Problem Statement:
 
-What things you need to install the software and how to install them
+To build a predictive model using the wine dataset to predict the **variety** of the wine. 
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
 
 ```
-Give the example
+For example:- Cabernet Sauvignon, Pinot Noir...etc.
 ```
 
-And repeat
+## Solution
 
-```
-until finished
-```
+### Full analysis is done here : [Wine variety notebook](https://github.com/RepoMan20/wine-variety-prediction/)
 
-End with an example of getting some data out of the system or using it for a little demo
+#### Contents: 
 
-## Running the tests
+1. [Libraries](#libraries)
+2. [Exploratory Data Analysis](#eda)
+3. [Visualizations](#viz)
 
-Explain how to run the automated tests for this system
+<a name="libraries"></a>
+## Libraries:
 
-### Break down into end to end tests
+Libraries used :  ```
+                  numpy,sklearn,pandas,matplotlib,seaborn
+                  ```
 
-Explain what these tests test and why
 
-```
-Give an example
-```
+<a name="eda"></a>
+## Exploratory Data Analysis (EDA)
 
-### And coding style tests
+1. Data cleaning
+2. Features Selection
+3. Feature encoding
 
-Explain what these tests test and why
+<a name="eda"></a>
+## Selection of model 
 
-```
-Give an example
-```
+Since majority of the dataset consists of categorical data, we use classification algorithms to strengthen the predictive power of the model.
 
-## Deployment
+Here I built two models and selected the best performing model out of the two 
 
-Add additional notes about how to deploy this on a live system
+1. **Decision Tree Classifier**
+2. **Random Forest Classifier**
 
-## Built With
+To determine the best model to use for this classification problem, a comparison was done of both the models.
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+According to the final results,  **Random Forest classifier** performed slightly better than the **Decision Tree Classifier** in terms of accuracy.
 
-## Contributing
+<a name="viz"></a>
+## Visualizations
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+## @Authors
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Vishak G** - (https://github.com/RepoMan20)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Readme boilerplate - [PurpleBooth](https://github.com/PurpleBooth)
 
