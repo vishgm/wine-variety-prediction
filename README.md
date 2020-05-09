@@ -3,7 +3,7 @@
 
 ## About this Repository:
 
-This was a Data Science assignment. The dataset used for this model is private, but similiar datasets can be found on Kaggle. 
+This was a Data Science assignment. The dataset used for this model is private. 
 
 ## Problem Statement:
 
@@ -16,11 +16,11 @@ For example:- Cabernet Sauvignon, Pinot Noir...etc.
 
 ## Solution
 
-### Full analysis is done here : [Wine variety notebook](https://github.com/RepoMan20/wine-variety-prediction/)
+### A complete analysis is available here : [Wine variety notebook](https://github.com/RepoMan20/wine-variety-prediction/)
 
 #### Contents: 
 
-1. [Libraries](#libraries)
+1. [Libraries used](#libraries)
 2. [Exploratory Data Analysis](#eda)
 3. [Visualizations](#viz)
 
@@ -42,16 +42,16 @@ Libraries used :  ```
 <a name="eda"></a>
 ## Selection of model 
 
-Since majority of the dataset consists of categorical data, we use classification algorithms to strengthen the predictive power of the model.
+Since majority of the dataset consists of categorical data, classification algorithms were used to strengthen the predictive power of the model.
 
-Here I built two models and selected the best performing model out of the two 
+Here two models were built viz: 
 
 1. **Decision Tree Classifier**
 2. **Random Forest Classifier**
 
-To determine the best model to use for this classification problem, a comparison was done of both the models.
+To determine the best model to use for this classification problem, a comparison was done between both the models.
 
-According to the final results,  **Random Forest classifier** performed slightly better than the **Decision Tree Classifier** in terms of accuracy.
+The final result -  **Random Forest classifier** performed slightly better than the **Decision Tree Classifier** in terms of accuracy.
 
 <a name="viz"></a>
 ## Visualizations
