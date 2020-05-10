@@ -56,8 +56,7 @@ The final result -  **Random Forest classifier** performed slightly better than 
 <a name="viz"></a>
 ## Visualizations
 
-
-
+Please refer the visualization folder : 
 
 
 ## @Authors
