@@ -3,7 +3,7 @@
 
 ## About this Repository:
 
-This was a Data Science assignment. 
+This was a Machine Learning assignment. 
 
 ## Problem Statement:
 
