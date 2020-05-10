@@ -61,7 +61,7 @@ Please refer the visualization folder : [Visualization](https://github.com/RepoM
 
 
 ## Data
-Please refer the visualization folder : [Data](https://github.com/RepoMan20/wine-variety-prediction/tree/master/Data)
+Please refer the Data folder : [Data](https://github.com/RepoMan20/wine-variety-prediction/tree/master/Data)
 
 **Please Note: Original Train data (the file 'train.csv' has been zipped into a compressed folder 'train' due to upload file size limitations in Github) ** 
 
