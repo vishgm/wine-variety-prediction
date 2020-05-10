@@ -3,7 +3,7 @@
 
 ## About this Repository:
 
-This was a Machine Learning assignment. 
+This is a Machine Learning assignment. 
 
 ## Problem Statement:
 
@@ -16,7 +16,7 @@ For example:- Cabernet Sauvignon, Pinot Noir...etc.
 
 ## Solution
 
-### A complete analysis is available here : [Wine variety notebook](https://github.com/RepoMan20/wine-variety-prediction/)
+### A complete analysis is available here : [Wine variety notebook](https://github.com/RepoMan20/wine-variety-prediction/tree/master/Data)
 
 #### Contents: 
 
@@ -56,8 +56,14 @@ The final result -  **Random Forest classifier** performed slightly better than 
 <a name="viz"></a>
 ## Visualizations
 
-Please refer the visualization folder : 
+Please refer the visualization folder : [Visualization](https://github.com/RepoMan20/wine-variety-prediction/tree/master/Visualization_images)
 
+
+
+## Data
+Please refer the visualization folder : [Data](https://github.com/RepoMan20/wine-variety-prediction/tree/master/Data)
+
+**Please Note: Original Train data (the file 'train.csv' has been zipped into a compressed folder 'train' due to upload file size limitations in Github) ** 
 
 ## @Authors
 
