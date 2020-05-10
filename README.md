@@ -3,7 +3,7 @@
 
 ## About this Repository:
 
-This was a Data Science assignment. The dataset used for this model is private. 
+This was a Data Science assignment. 
 
 ## Problem Statement:
 
