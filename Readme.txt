@@ -16,7 +16,10 @@ Folder Structure: (*Important*)
 
 	 	  iv) Contains Final Prediction csv file named as 'test_data_with_prediction.csv'---------  (Important)
 
-		  v) Visualization on predicted_test_data: This Contains Actionable Insights on Predicted Test Data in .ipnyb* format
+		 v) Visualization & actionable insights on predicted Test Data is available in .ipnyb* format under Data folder 	                      (Visualizations_on_predicted_test_data.ipynb)
+
+		vi) Visualization & actionable insights on Train Data is available in .ipnyb* format under Data folder 	
+		    (Visualizations_on_train_data.ipynb)
 
 	
 	3. Visualizations: Contains Actionable Insights & images of visualizations on Train data
