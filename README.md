@@ -59,7 +59,7 @@ The final result -  **Random Forest classifier** performed slightly better than 
 1. Visualization & actionable insights on predicted Test Data is available in .ipnyb* format under Data folder   (Visualizations_on_predicted_test_data.ipynb)
 
 2. Visualization & actionable insights on  Train Data is available in .ipnyb* format under Data folder 
-(Visualizations.ipynb)
+(Visualizations_on_train_data.ipynb)
 
 3. Please refer the visualization folder for images of visualiztion of train data : [Visualization](https://github.com/RepoMan20/wine-variety-prediction/tree/master/Visualization_images)
 
